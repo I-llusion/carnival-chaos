@@ -1,2 +1,2 @@
 # carnival-chaos
-Repository for Carnival Chaos, a mobile game developed by Illusion Studios. (UNFINISHED)
+Carnival Chaos is a fast-paced mobile shooter currently being developed by Ishaan Bahl/Illusion.
